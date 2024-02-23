@@ -21,7 +21,7 @@ int main()
     cout<<endl;
 
     switch(a)
-    {
+    { 
         case 1:
             login();
             break;
